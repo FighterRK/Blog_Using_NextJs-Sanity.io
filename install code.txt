@@ -1,0 +1,23 @@
+npm install -g @sanity/cli
+sanity init --coupon codewithharry
+
+
+
+
+schema types:
+
+https://www.sanity.io/docs/schema-types
+
+
+
+Terminal: npm start
+
+
+
+connecting next js - sanity
+Install the next-sanity toolkit     yarn add next-sanity on frontend
+
+
+
+
+Query Cheat Sheet - GROQ https://www.sanity.io/docs/query-cheat-sheet
