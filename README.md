@@ -17,7 +17,7 @@ A Static Website was created using NextJS and i had connected using the POST Req
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/73493598/185039623-9922ffc3-cf99-49f0-87db-fc9080ba7e01.png)
 
-kkk
+>>>>>>>>>>     THIS IS WHERE I HAD CONNECTED TO SANITY:IO TO MY WEB PAGE <<<<<<<<<<<<<< 
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/73493598/185039664-cb6e0e3d-a684-4412-9733-b3e1120d1992.png)
 
@@ -26,5 +26,13 @@ kkk
 ![Screenshot (28)](https://user-images.githubusercontent.com/73493598/185039709-f5db3578-94c2-489a-addb-1343b986644d.png)
 ![Screenshot (29)](https://user-images.githubusercontent.com/73493598/185039728-1e9fee6f-a70a-4293-81ac-00e0aab27df9.png)
 
+......***   BELOW ARE THE Sanoty:Io Page ***......
+
+
+
+![Screenshot (30)](https://user-images.githubusercontent.com/73493598/185039888-c4a2143c-fdcf-4843-8395-3e11c74f941c.png)
+
+
+![Screenshot (31)](https://user-images.githubusercontent.com/73493598/185039913-b7e7565b-0310-407f-bd3f-a80bf7377844.png)
 
 
