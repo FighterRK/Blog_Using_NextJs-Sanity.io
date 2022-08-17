@@ -36,3 +36,12 @@ A Static Website was created using NextJS and i had connected using the POST Req
 ![Screenshot (31)](https://user-images.githubusercontent.com/73493598/185039913-b7e7565b-0310-407f-bd3f-a80bf7377844.png)
 
 
+
+
+https://user-images.githubusercontent.com/73493598/185040636-eb628f38-7135-46dd-a1cf-44b06cd7971e.mp4
+
+
+
+
+
+
